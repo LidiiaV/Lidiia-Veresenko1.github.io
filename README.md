@@ -2,7 +2,7 @@
 Lidiia
 ![banner](https://user-images.githubusercontent.com/86529550/123524197-a5cc4c00-d696-11eb-9554-a3467b4188f7.jpg)
 ![pic01](https://user-images.githubusercontent.com/86529550/123524198-a5cc4c00-d696-11eb-8536-a4bf953dd02f.jpg)
-![pic02](https://user-images.githubusercontent.com/86529550/123524199-a5cc4c00-d696-11eb-9761-828dc9673f4d.jpg)
+![pic02.jpg](https://user-images.githubusercontent.com/86529550/123524199-a5cc4c00-d696-11eb-9761-828dc9673f4d.jpg)
 ![pic03](https://user-images.githubusercontent.com/86529550/123524200-a664e280-d696-11eb-9186-02a14685f350.jpg)
 ![pic04](https://user-images.githubusercontent.com/86529550/123524201-a664e280-d696-11eb-9c77-d20ea6cbafd9.jpg)
 ![pic05](https://user-images.githubusercontent.com/86529550/123524202-a664e280-d696-11eb-9248-4986772c3937.jpg)
